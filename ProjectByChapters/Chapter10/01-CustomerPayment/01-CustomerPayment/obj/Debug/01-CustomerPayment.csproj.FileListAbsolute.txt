@@ -1,0 +1,12 @@
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\bin\Debug\01-CustomerPayment.exe.config
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\bin\Debug\01-CustomerPayment.exe
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\bin\Debug\01-CustomerPayment.pdb
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\01-CustomerPayment.csproj.AssemblyReference.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\01-CustomerPayment.csproj.SuggestedBindingRedirects.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\_01_CustomerPayment.frmCustomer.resources
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\_01_CustomerPayment.Properties.Resources.resources
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\01-CustomerPayment.csproj.GenerateResource.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\01-CustomerPayment.csproj.CoreCompileInputs.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\01-CustomerPayment.exe
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\01-CustomerPayment.pdb
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter10\01-CustomerPayment\01-CustomerPayment\obj\Debug\_01_CustomerPayment.frmPayment.resources

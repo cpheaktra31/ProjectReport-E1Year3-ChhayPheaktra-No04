@@ -1,0 +1,11 @@
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\bin\Debug\04-StudentPopulation.exe.config
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\bin\Debug\04-StudentPopulation.exe
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\bin\Debug\04-StudentPopulation.pdb
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\obj\Debug\04-StudentPopulation.csproj.AssemblyReference.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\obj\Debug\04-StudentPopulation.csproj.SuggestedBindingRedirects.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\obj\Debug\_04_StudentPopulation.frmStudentPopulation.resources
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\obj\Debug\_04_StudentPopulation.Properties.Resources.resources
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\obj\Debug\04-StudentPopulation.csproj.GenerateResource.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\obj\Debug\04-StudentPopulation.csproj.CoreCompileInputs.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\obj\Debug\04-StudentPopulation.exe
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\04-StudentPopulation\04-StudentPopulation\obj\Debug\04-StudentPopulation.pdb

@@ -1,0 +1,11 @@
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\bin\Debug\01-InvoiceTotal.exe.config
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\bin\Debug\01-InvoiceTotal.exe
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\bin\Debug\01-InvoiceTotal.pdb
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\obj\Debug\01-InvoiceTotal.csproj.AssemblyReference.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\obj\Debug\01-InvoiceTotal.csproj.SuggestedBindingRedirects.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\obj\Debug\_01_InvoiceTotal.frmInvoiceTotal.resources
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\obj\Debug\_01_InvoiceTotal.Properties.Resources.resources
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\obj\Debug\01-InvoiceTotal.csproj.GenerateResource.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\obj\Debug\01-InvoiceTotal.csproj.CoreCompileInputs.cache
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\obj\Debug\01-InvoiceTotal.exe
+F:\MyDocuments\RUPP\Year 3\.NET Programming\ProjectByChapters\Chapter02\01-InvoiceTotal\01-InvoiceTotal\obj\Debug\01-InvoiceTotal.pdb
